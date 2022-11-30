@@ -278,6 +278,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 ##### :black_small_square: Mass scanners (search engines)
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.criminalip.io/"><b>Criminalip</b></a> - Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated [@aispera]<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - if you use Shodan for everyday work, be sure to see it - looks for randomly generated data from Shodan.<br>
